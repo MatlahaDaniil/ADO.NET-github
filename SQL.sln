@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL", "SQL\SQL.csproj", "{6BE8EEF5-1D87-43ED-A362-1F218B4D3257}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VegetablesAndFruitsDB", "VegetablesAndFruitsDB\VegetablesAndFruitsDB.csproj", "{F9C8C9C7-2EFB-40E2-B2BE-E257B6621E70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BE8EEF5-1D87-43ED-A362-1F218B4D3257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE8EEF5-1D87-43ED-A362-1F218B4D3257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE8EEF5-1D87-43ED-A362-1F218B4D3257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE8EEF5-1D87-43ED-A362-1F218B4D3257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9C8C9C7-2EFB-40E2-B2BE-E257B6621E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9C8C9C7-2EFB-40E2-B2BE-E257B6621E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9C8C9C7-2EFB-40E2-B2BE-E257B6621E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9C8C9C7-2EFB-40E2-B2BE-E257B6621E70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E713BCC5-45CF-4647-A9F8-7459D48B228A}
+	EndGlobalSection
+EndGlobal
